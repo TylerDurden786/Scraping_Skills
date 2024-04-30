@@ -4,7 +4,7 @@
 
 ## Description
 
-This Python script, named `skills_scraper.py`, utilizes Selenium, a powerful web scraping library, to extract job postings from LinkedIn related to a specified keyword, typically job titles like "data engineer". The script navigates through multiple pages of job listings, extracting key details such as job title, company name, and job description. 
+This Python script, named `skills_scrape.py`, utilizes Selenium, a powerful web scraping library, to extract job postings from LinkedIn related to a specified keyword, typically job titles like "data engineer". The script navigates through multiple pages of job listings, extracting key details such as job title, company name, and job description. 
 
 ### Features
 
